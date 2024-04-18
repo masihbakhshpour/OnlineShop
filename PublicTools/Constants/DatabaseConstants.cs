@@ -71,11 +71,11 @@ namespace PublicTools.Constants
         }
         public static class GodAdminUsers
         {
-            public const string ArefiUserId = "1";
-            public const string ArefiFirstName = "Roya";
-            public const string ArefiLastName = "Arefi";
-            public const string ArefiCellPhone = "09378748824";
-            public const string ArefiPassword = "!QAZ1qaz";
+            public const string MasihUserId = "1";
+            public const string MasihFirstName = "masih";
+            public const string MasihLastName = "bakhshpoor";
+            public const string MasihCellPhone = "09129623612";
+            public const string MasihPassword = "@Hellboy1379";
         }
     }
 }
